@@ -62,4 +62,4 @@ ariel.hacer_depósito(1000).hacer_retiro(300).hacer_retiro(100).hacer_retiro(200
 carolina.transferir_a_usuario(75, ariel)
 
 #Al aplicar return en cada metodo, se pudo encadenar los metodos particulares de cada instancia.
-#esto reduce mucho el cogido.
+#esto reduce mucho el codigo.
